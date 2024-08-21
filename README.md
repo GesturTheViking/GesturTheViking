@@ -1,6 +1,5 @@
-### Hey there, I'm Elia. 🦧
-I'm a game programming student based in Stockholm, Sweden. 🇸🇪
+### I'm Elia. 🦧
 
-I'm passionate about all things games and game engines.
+An Engine Programmer at Remedy Entertainment Plc, who's passionate about programming games and game engines. On this GitHub page, you will find my hobby projects as well as my old school work.
 
-[Website](http://eliar.dev)
+You can find my old portfolio from school [here](http://eliar.dev).
